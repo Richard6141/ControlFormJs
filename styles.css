@@ -1,0 +1,21 @@
+body {
+  width: 1200px;
+  font-size: 14px;
+  font: optional;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+form {
+  width: 400px;
+  height: auto;
+  border: 2px solid;
+  padding: 52px;
+}
+input {
+  width: max-content;
+  height: 12px;
+  padding: auto;
+}
